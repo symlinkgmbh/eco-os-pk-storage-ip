@@ -1,6 +1,6 @@
 {
   "name": "@symlinkde/eco-os-pk-storage-ip",
-  "version": "0.0.23",
+  "version": "0.0.24",
   "description": "Package containing storage adapter for ip protection service.",
   "types": "lib/index.d.ts",
   "main": "lib/index.js",
@@ -47,5 +47,5 @@
   },
   "company": "Symlink GmbH",
   "homepage": "https://2ndlock.com",
-  "repository": "https://gitlab.com"
+  "repository": "https://gitlab.com/symlinkde"
 }
